@@ -12,7 +12,7 @@ public class MeshGenerator : MonoBehaviour
     private List<GameObject> nodes = new List<GameObject>();
     public GameObject Graph;
 
-    public GameObject showVertice;
+    //public GameObject showVertice;
 
     Vector3[] vertices;
     int[] triangles;
